@@ -6,7 +6,7 @@
 PATH=/bin:/sbin/:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
-apt-get install build-essential default-jdk ant python-dev
+apt-get install build-essential default-jdk ant python-dev wireshark
 git clone git://github.com/floodlight/floodlight.git
 cd floodlight
 git checkout stable
